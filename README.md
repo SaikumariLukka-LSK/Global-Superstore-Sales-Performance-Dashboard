@@ -86,6 +86,13 @@ The dataset contains:
 - Review discount strategies to maintain healthy margins.
 - Focus on high-value customer segments.
 
+## Dashboard Preview
+overview.png
+sales(page1).png
+sales(page2).png
+decomposition.png
+summary.png
+
 
 ## Author
 **Sai Kumari Lukka**
