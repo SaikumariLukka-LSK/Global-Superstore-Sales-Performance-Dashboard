@@ -1,4 +1,4 @@
-# PowerBI-Global-Superstore-university-project
+#Global-Superstore-Sales-Performance-Dashboard
 End-to-end Power BI Business Intelligence solution using Global Superstore 2016 data, including data transformation, star schema modeling, KPI tracking, and interactive reporting.
 # Global Superstore Sales & Performance Dashboard
 
@@ -6,6 +6,15 @@ End-to-end Power BI Business Intelligence solution using Global Superstore 2016 
 This project presents a comprehensive Business Intelligence solution developed using Microsoft Power BI based on the Global Superstore 2016 dataset. The dashboard provides actionable insights into sales performance, profitability, customer segments, product categories, shipping efficiency, and return analysis.
 
 The data was cleaned, transformed, and modelled using a Star Schema to support efficient reporting and interactive visualizations.
+
+## Project Highlights
+
+- Built an interactive multi-page Power BI dashboard.
+- Created a Star Schema data model.
+- Developed DAX measures for KPI calculations.
+- Performed sales forecasting analysis.
+- Analysed customer, product, regional, and shipping performance.
+- Implemented drill-through and decomposition tree analysis.
 
 ## Objectives
 - Identify the most profitable regions and product categories.
@@ -20,6 +29,20 @@ The data was cleaned, transformed, and modelled using a Star Schema to support e
 - DAX (Data Analysis Expressions)
 - Star Schema Data Modelling
 - Microsoft Excel
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Data Modelling
+- Star Schema
+- DAX
+- Power Query
+- Business Intelligence
+- Data Visualization
+- Dashboard Design
+- KPI Analysis
+- Forecasting
 
 ## Dataset
 **Source:** Global Superstore 2016 Dataset
@@ -86,12 +109,22 @@ The dataset contains:
 - Review discount strategies to maintain healthy margins.
 - Focus on high-value customer segments.
 
-## Dashboard Preview
-overview.png
-sales(page1).png
-sales(page2).png
-decomposition.png
-summary.png
+# Dashboard Preview
+
+## Executive Dashboard
+![Overview](overview.png)
+
+## Sales Analysis Page 1
+![Sales Page 1](sales(page1).png)
+
+## Sales Analysis Page 2
+![Sales Page 2](sales(page2).png)
+
+## Summary Dashboard
+![Summary](summary page.png)
+
+## Decomposition Analysis
+![Decomposition](decomposition.png)
 
 
 ## Author
