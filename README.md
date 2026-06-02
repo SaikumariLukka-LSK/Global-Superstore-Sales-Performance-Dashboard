@@ -1,5 +1,8 @@
 #Global-Superstore-Sales-Performance-Dashboard
 End-to-end Power BI Business Intelligence solution using Global Superstore 2016 data, including data transformation, star schema modeling, KPI tracking, and interactive reporting.
+
+## Summary Dashboard
+![Summary Dashboard](summary%20page.png)
 # Global Superstore Sales & Performance Dashboard
 
 ## Project Overview
