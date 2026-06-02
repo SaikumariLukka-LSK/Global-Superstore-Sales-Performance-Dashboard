@@ -121,7 +121,7 @@ The dataset contains:
 ![Sales Page 2](sales(page2).png)
 
 ## Summary Dashboard
-![Summary](summary page.png)
+![Summary Dashboard](summary%20page.png)
 
 ## Decomposition Analysis
 ![Decomposition](decomposition.png)
